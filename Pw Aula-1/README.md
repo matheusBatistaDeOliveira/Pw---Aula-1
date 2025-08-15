@@ -16,27 +16,27 @@
         <li><strong>Frontend</strong> – Responsável pela interface visual. Tecnologias principais:
             <ul>
                 <br>
-                <li class="liPTU">HTML (estrutura)</li>
-                <li class="liPTU">CSS (estilo)</li>
-                <li class="liPTU">JavaScript (interatividade)</li>
+                <li>HTML (estrutura)</li>
+                <li>CSS (estilo)</li>
+                <li>JavaScript (interatividade)</li>
                 <br>
             </ul>
         </li>
         <li><strong>Backend</strong> – Responsável pelo funcionamento interno do site. Principais tecnologias:
             <ul>
                 <br>
-                <li class="liPTU">Node.js</li>
-                <li class="liPTU">Python (Django, Flask)</li>
-                <li class="liPTU">PHP</li>
+                <li>Node.js</li>
+                <li>Python (Django, Flask)</li>
+                <li>PHP</li>
                 <br>
             </ul>
         </li>
         <li><strong>Banco de Dados</strong> – Onde as informações são armazenadas. Alguns exemplos:</strong></li>
         <ul>
             <br>
-            <li class="liPTU">MySQL</li>
-            <li class="liPTU">PostgreSQL</li>
-            <li class="liPTU">MongoDB</li>
+            <li>MySQL</li>
+            <li>PostgreSQL</li>
+            <li>MongoDB</li>
         </ul>
     </ol>
     <h2>🔥 Tendências do Desenvolvimento Web</h2>
@@ -59,6 +59,6 @@
         <li>Entenda como funciona o backend.</li>
         <li>Participe de comunidades e compartilhe seu código no GitHub.</li>
     </ol>
-    <hr id="hrFooter">
+    <hr>
 </body>
 </html>
